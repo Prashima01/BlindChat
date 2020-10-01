@@ -20,7 +20,7 @@ I started out building BlindChat just to try out the messenger platform of Faceb
 
 ### Local development / Setup your version of the app
 
-BlindChat is currently hosted on [Heroku](https://www.heroku.com/) and uses their offered database. Thus, the code and setup are written for it. If you don't want to use Heroku, you'll have to modify the code in a few places but if you are okay with Heroku, then you are just fine. It helps to have a bit of knowledge setting up a messenger bot.
+BlindChat is currently hosted on [Heroku](https://www.heroku.com/) and uses their offered database. Thus, the code and setup are written for it. If you don't want to use Heroku, you'll have to modify the code in a few places but if you are okay with Heroku, then you are just fine. It helps you to have a bit of knowledge setting up a messenger bot.
 
 
 
